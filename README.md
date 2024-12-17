@@ -11,7 +11,7 @@ License
 Project Overview
 The Walton Hall Museum of Odds & Ends website provides an online presence for the museum, featuring a gallery of images, the latest news, and placeholder pages for other important sections of the site, including exhibitions, events, and contact information. This simple web application demonstrates how to display static content and set up basic navigation.
 
-Features
+Features:
 Main Navigation Menu: Includes links to the home page, exhibitions, events, and contact pages.
 Image Gallery: A section showcasing six images representing the museum’s displays, each linked to an external URL.
 News Section: Displays the latest updates, including announcements for new exhibits and events.
@@ -26,8 +26,6 @@ To run this project locally, follow the steps below:
 
 Clone or download the repository to your local machine:
 
-bash
-Copy code
 git clone https://github.com/yourusername/walton-hall-museum.git
 Open the index.html file in your browser to view the main page.
 
@@ -41,5 +39,3 @@ Go Back to Previous Page: On the placeholder pages, click the "Go Back" link to 
 License
 This project is open-source and licensed under the MIT License.
 
-Additional Information
-This is a simple static website for educational purposes. It can be further developed by adding real content to the placeholder pages and extending the functionality with more interactive features, such as a contact form, dynamic event listings, or a backend system to manage exhibits.
